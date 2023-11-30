@@ -25,7 +25,9 @@ Name!
 
 # GitHub + Git Workshop Attendees (2023)
 
-Brian
+```md 
+[**@Brian**](https://github.com/reblocke) My first program language was C but I couldn't write a functioning program now if my life dependended on it. 
+```
 
 Kia
 
