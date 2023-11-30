@@ -5,7 +5,7 @@ You need to make a fork of this repository[^credits], find your name in the list
 [^credits]: This repository was originally created for [USC's Intro to Health Data Science](https://github.com/USCbiostats/PM566-whoami).
 
 ```md
-[**@your username**](the URL to your profile) something about you
+[**@your username**](the URL to your profile) I love slc
 ```
 
 For example, this is what I did with mine:
