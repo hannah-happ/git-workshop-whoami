@@ -61,7 +61,7 @@ Jace
 
 Kramer
 
-[**@Nika**](https://github.com/RNAdork)
+Nika [**@RNAdork**](https://github.com/RNAdork)
 
 # GitHub + Git 2023 instructors
 
