@@ -1,4 +1,4 @@
-# GitHub + Git workshop 2023
+\# GitHub + Git workshop 2023
 
 You need to make a fork of this repository[^credits], find your name in the list below, and replace it with something like:
 
@@ -25,9 +25,8 @@ Name!
 
 # GitHub + Git Workshop Attendees (2023)
 
-```md 
-[**@Brian**](https://github.com/reblocke) My first program language was C but I couldn't write a functioning program now if my life dependended on it. 
-```
+ 
+Brian (https://github.com/reblocke) My first program language was C but I couldn't write a functioning program now if my life dependended on it. 
 
 Kia
 
