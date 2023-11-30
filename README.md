@@ -67,6 +67,6 @@ Kramer
 
 Rebecca
 
-Linda
+Linda I take pleasure in assisting during the DELPHI workshops. 
 
 Ransmond
