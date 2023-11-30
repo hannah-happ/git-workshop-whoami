@@ -82,6 +82,4 @@ Rebecca
 
 Linda I take pleasure in assisting during the DELPHI workshops. 
 
-Ransmond
-
-
+[**@rberch](https://github.com/rberch) I am enjoying this programming!
