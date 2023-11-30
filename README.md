@@ -62,6 +62,9 @@ Jace
 Kramer
 
 Nika [**@RNAdork**](https://github.com/RNAdork)
+<img 
+src="https://media.licdn.com/dms/image/C5603AQFZKattbUEXtA/profile-displayphoto-shrink_800_800/0/1609879959497?e=2147483647&v=beta&t=0LBYm9j8lIzwAneU4pOADxH4EnHrufXi0hWHNgSwzMA" 
+alt="Image of Nika" width="40px">
 
 # GitHub + Git 2023 instructors
 
