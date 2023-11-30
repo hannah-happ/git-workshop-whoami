@@ -61,7 +61,7 @@ Fatemeh
 
 Casey
 
-Jace
+Jace: Originally from Nevada.
 
 Kramer
 
