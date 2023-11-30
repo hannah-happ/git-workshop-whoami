@@ -29,7 +29,7 @@ Brian
 
 Kia
 
-Bradley
+Bradley -- In college I double-majored in Studio Art and Biology.
 
 Stephanie
 
