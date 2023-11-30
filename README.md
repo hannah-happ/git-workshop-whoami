@@ -69,4 +69,4 @@ Rebecca
 
 Linda
 
-[**@rberch](https://github.com/rberch) I am enjoyinh this programming!
+[**@rberch](https://github.com/rberch) I am enjoying this programming!
