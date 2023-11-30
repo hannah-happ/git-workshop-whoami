@@ -51,7 +51,7 @@ Katharine
 
 Selena
 
-Cecilia - Like photograpy
+Cecilia - I like photograpy
 
 Fatemeh
 
