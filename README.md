@@ -61,7 +61,7 @@ Jace
 
 Kramer
 
-Hannah [**@hannah-happ**](https://github.com/hannah-happ) I <3 genetics and snacks
+Hannah [**@hannah-happ**](https://github.com/hannah-happ) I love genetics and snacks
 
 # GitHub + Git 2023 instructors
 
