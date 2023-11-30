@@ -1,11 +1,11 @@
-# GitHub + Git workshop 2023
+\# GitHub + Git workshop 2023
 
 You need to make a fork of this repository[^credits], find your name in the list below, and replace it with something like:
 
 [^credits]: This repository was originally created for [USC's Intro to Health Data Science](https://github.com/USCbiostats/PM566-whoami).
 
 ```md
-[**@your username**](the URL to your profile) something about you
+[**@your username**](the URL to your profile) I love slc
 ```
 
 For example, this is what I did with mine:
@@ -26,7 +26,8 @@ Name!
 
 # GitHub + Git Workshop Attendees (2023)
 
-Brian
+ 
+Brian (https://github.com/reblocke) My first program language was C but I couldn't write a functioning program now if my life dependended on it. 
 
 Kia
 
@@ -52,7 +53,7 @@ Katharine
 
 Selena
 
-Cecilia
+Cecilia - I like photograpy
 
 Fatemeh
 
@@ -63,6 +64,13 @@ Jace
 Kramer
 
 [**@Guanqun**](https://github.com/MaGuanqun) I love hiking, want to try skiing!
+
+Hannah [**@hannah-happ**](https://github.com/hannah-happ) I love genetics and snacks
+
+Nika [**@RNAdork**](https://github.com/RNAdork)
+<img 
+src="https://media.licdn.com/dms/image/C5603AQFZKattbUEXtA/profile-displayphoto-shrink_800_800/0/1609879959497?e=2147483647&v=beta&t=0LBYm9j8lIzwAneU4pOADxH4EnHrufXi0hWHNgSwzMA" 
+alt="Image of Nika" width="40px">
 
 # GitHub + Git 2023 instructors
 
