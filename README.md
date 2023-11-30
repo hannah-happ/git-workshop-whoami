@@ -23,6 +23,8 @@ Look for your name and add a link to your Github profile and something about
 yourself (that you don't mind publicly sharing). Remember to modify the line only with your
 Name!
 
+[**@Guanqun**](https://github.com/MaGuanqun) I love hiking, want to try skiing!
+
 # GitHub + Git Workshop Attendees (2023)
 
 Brian
