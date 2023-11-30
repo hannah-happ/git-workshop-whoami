@@ -67,7 +67,7 @@ Kramer
 
 [**@Guanqun**](https://github.com/MaGuanqun) I love hiking, want to try skiing!
 
-Hannah [**@hannah-happ**](https://github.com/hannah-happ) I love genetics and snacks
+Hannah [**@hannah-happ**](https://github.com/hannah-happ) I love genetics and snacks!
 
 Nika [**@RNAdork**](https://github.com/RNAdork)
 <img 
