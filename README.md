@@ -31,7 +31,7 @@ Brian (https://github.com/reblocke) My first program language was C but I couldn
 
 Kia
 
-Bradley
+Bradley -- In college I double-majored in Studio Art and Biology.
 
 Stephanie
 
